@@ -1,0 +1,17 @@
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\bin\Debug\net6.0\NetPablo.DataAccess.deps.json
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\bin\Debug\net6.0\NetPablo.DataAccess.runtimeconfig.json
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\bin\Debug\net6.0\NetPablo.DataAccess.dll
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\bin\Debug\net6.0\NetPablo.DataAccess.pdb
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\bin\Debug\net6.0\NetPablo.Domain.dll
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\bin\Debug\net6.0\NetPablo.Domain.pdb
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.csproj.AssemblyReference.cache
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.AssemblyInfoInputs.cache
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.AssemblyInfo.cs
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.csproj.CoreCompileInputs.cache
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.csproj.CopyComplete
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.dll
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\refint\NetPablo.DataAccess.dll
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.pdb
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\NetPablo.DataAccess.genruntimeconfig.cache
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.DataAccess\obj\Debug\net6.0\ref\NetPablo.DataAccess.dll

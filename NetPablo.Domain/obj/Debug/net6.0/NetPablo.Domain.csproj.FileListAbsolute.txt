@@ -1,0 +1,12 @@
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\bin\Debug\net6.0\NetPablo.Domain.deps.json
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\bin\Debug\net6.0\NetPablo.Domain.dll
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\bin\Debug\net6.0\NetPablo.Domain.pdb
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\NetPablo.Domain.csproj.AssemblyReference.cache
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\NetPablo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\NetPablo.Domain.AssemblyInfoInputs.cache
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\NetPablo.Domain.AssemblyInfo.cs
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\NetPablo.Domain.csproj.CoreCompileInputs.cache
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\NetPablo.Domain.dll
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\refint\NetPablo.Domain.dll
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\NetPablo.Domain.pdb
+E:\Fuentes\Cursos\MitoCode - NET6\Net6\NetPablo\NetPablo.Domain\obj\Debug\net6.0\ref\NetPablo.Domain.dll
